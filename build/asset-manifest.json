@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c2d43d0.chunk.css",
+    "main.js": "/static/js/main.a0282d14.chunk.js",
+    "main.js.map": "/static/js/main.a0282d14.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f3c193b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f3c193b7.js.map",
+    "static/js/2.f18587cb.chunk.js": "/static/js/2.f18587cb.chunk.js",
+    "static/js/2.f18587cb.chunk.js.map": "/static/js/2.f18587cb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.daa2678d2553d8cf74bfbc54e2cb3a05.js": "/precache-manifest.daa2678d2553d8cf74bfbc54e2cb3a05.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5c2d43d0.chunk.css.map": "/static/css/main.5c2d43d0.chunk.css.map",
+    "static/js/2.f18587cb.chunk.js.LICENSE.txt": "/static/js/2.f18587cb.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/SegoeUI.ee10411f.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3c193b7.js",
+    "static/js/2.f18587cb.chunk.js",
+    "static/css/main.5c2d43d0.chunk.css",
+    "static/js/main.a0282d14.chunk.js"
+  ]
+}
